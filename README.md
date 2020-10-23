@@ -16,7 +16,7 @@ Sections:
 1. Explanatory Data Analysis
 2. Feature Engineering
 3. Feature Selection 
-4. Models build
+4. Models
 
 Evaluation Metric: F1 Score
 
